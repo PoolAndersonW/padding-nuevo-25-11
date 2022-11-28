@@ -1,0 +1,86 @@
+body { 
+    margin: 0px;
+    padding: 0px; 
+    font-family: 'Open Sans', sans-serif;
+    background:rgba(197,255,244,1);
+}
+
+.contenidosexy {
+    display: block; 
+    position: relative;
+    width: auto; 
+    height: auto; 
+    overflow: hidden; 
+    display: block;  
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.titulosexy {
+    top: auto;
+	left: auto;
+	width: auto;
+	height: auto;
+	overflow: hidden;
+	font-size: 45px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+.subtituloxd {
+    top: auto;
+	left: auto;
+	width: auto;
+	height: auto;
+	overflow: hidden;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+.cuadro1 {
+    position: relative;
+    display: flex;
+    width: 20em;
+    height: 3em;
+}
+
+.cuadro2 {
+    position: relative;
+    display: flex;
+    width: 20em;
+    height: 3em;
+}
+
+.cuadro3 {
+    position: relative;
+    display: flex;
+    width: 20em;
+    height: 3em;
+}
+
+.cuadro4 {
+    position: relative;
+    display: flex;
+    width: 20em;
+    height: 3em;
+}
+
+.cuadro5 {
+    position: relative;
+    display: flex;
+    width: 20em;
+    height: 3em;
+}
+
+.cuadro6 {
+    position: relative;
+    display: flex;
+    width: 20em;
+    height: 3em;
+}
+ .imagensexy{
+    
+    justify-content: center;
+ }
